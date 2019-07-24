@@ -26,6 +26,11 @@ There are 2 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
+Findings:
+- there is a significant difference in proportion of some features comparing rentals in Seattle and Boston
+- Features can be good deals and very bad deals this is explained in a visualisation
+- The distance to the next main airport has been put in relation to price and review rating showing that the price is the highest in the city center and that a close rental isn't influenced negatily by the airport
+
 The main findings of the code can be found at the post available [here](https://medium.com/@kolbandreasmartin/this-will-make-you-more-aware-in-choosing-your-next-airbnb-a5a54c72d553).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
